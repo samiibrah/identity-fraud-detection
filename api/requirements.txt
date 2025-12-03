@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+pandas
+scikit-learn
+xgboost
+fastapi
+uvicorn
+pytest
+joblib
